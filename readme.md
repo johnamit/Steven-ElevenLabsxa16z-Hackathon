@@ -104,7 +104,7 @@ We confirm our adherence to the hackathon’s rules and deadlines. All project g
 ## Useful Links
 
 - **Conversational Agent Demo:**  
-  [Talk to Steven](https://elevenlabs.io/app/talk-to?agent_id=h0Z4SUEsg1CRFgHzW7HG)
+  [A Talk With Steven](https://www.youtube.com/watch?v=qXnhOg9lG5M))
 - **GitHub Repository:**  
   *(Link to be provided in the repository)*
 
