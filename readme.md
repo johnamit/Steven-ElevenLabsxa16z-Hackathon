@@ -1,4 +1,4 @@
-# Steven: The Doctor’s Co-Pilot – Less Admin, More Patient Care
+<img src="assets/steven.png" alt="Steven Medical Copilot" width="900"><br>
 
 Steven is a medical co-pilot designed to streamline the administrative tasks of healthcare professionals by leveraging advanced natural language processing and conversational AI. The project automates tasks such as note-taking, report drafting, and referral letter composition, allowing doctors to devote more time to patient care and clinical decision-making.
 
