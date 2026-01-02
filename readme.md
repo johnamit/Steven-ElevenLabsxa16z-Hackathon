@@ -1,4 +1,10 @@
 <img src="assets/steven.png" alt="Steven Medical Copilot" width="900"><br>
+  <a href="https://www.youtube.com/watch?v=qXnhOg9lG5M">
+  <img
+    src="https://img.shields.io/badge/Watch%20Demo-YouTube-black?style=for-the-badge&labelColor=FF0000&logo=youtube&logoColor=white"
+    alt="Watch Demo on YouTube"
+  />
+  </a>
 
 Steven is a medical co-pilot designed to streamline the administrative tasks of healthcare professionals by leveraging advanced natural language processing and conversational AI. The project automates tasks such as note-taking, report drafting, and referral letter composition, allowing doctors to devote more time to patient care and clinical decision-making.
 
