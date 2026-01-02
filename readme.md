@@ -9,14 +9,16 @@
 Steven is a medical co-pilot designed to streamline the administrative tasks of healthcare professionals by leveraging advanced natural language processing and conversational AI. The project automates tasks such as note-taking, report drafting, and referral letter composition, allowing doctors to devote more time to patient care and clinical decision-making.
 
 <p>
-  <a href="#problem-statement"><img src="https://img.shields.io/badge/Problem-111111?style=for-the-badge" alt="Problem"></a>
-  <a href="#our-solution"><img src="https://img.shields.io/badge/Solution-111111?style=for-the-badge" alt="Solution"></a>
+  <a href="#problem"><img src="https://img.shields.io/badge/Problem-111111?style=for-the-badge" alt="Problem"></a>
+  <a href="#solution"><img src="https://img.shields.io/badge/Solution-111111?style=for-the-badge" alt="Solution"></a>
+  <a href="#team"><img src="https://img.shields.io/badge/Team-111111?style=for-the-badge" alt="Team"></a>
   <a href="#technical-details"><img src="https://img.shields.io/badge/Technical-111111?style=for-the-badge" alt="Technical"></a>
-  <a href="#how-we-built-it"><img src="https://img.shields.io/badge/Build-111111?style=for-the-badge" alt="Build"></a>
-  <a href="#the-development-experience"><img src="https://img.shields.io/badge/Dev-111111?style=for-the-badge" alt="Dev"></a>
-  <a href="#whats-next-for-steven-doctors-co-pilot--less-admin-more-patient-care"><img src="https://img.shields.io/badge/Next-111111?style=for-the-badge" alt="Next"></a>
+  <a href="#the-development-experience"><img src="https://img.shields.io/badge/Development-111111?style=for-the-badge" alt="Development"></a>
+  <a href="#whats-next-for-steven"><img src="https://img.shields.io/badge/Whats%20Next-111111?style=for-the-badge" alt="What's Next"></a>
+  <a href="#compliance"><img src="https://img.shields.io/badge/Compliance-111111?style=for-the-badge" alt="Compliance"></a>
   <a href="#useful-links"><img src="https://img.shields.io/badge/Links-111111?style=for-the-badge" alt="Links"></a>
 </p>
+
 
 
 
